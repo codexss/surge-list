@@ -1,0 +1,7 @@
+# Xunlei
+DOMAIN,adsp.xunlei.com,REJECT
+DOMAIN,api-shoulei-ssl.xunlei.com,REJECT
+# Pixiv
+DOMAIN-SUFFIX,socdm.com,REJECT
+# GoogleAds
+DOMAIN-SUFFIX,doubleclick.net,REJECT
